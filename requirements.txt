@@ -1,0 +1,6 @@
+tensorflow
+tensorflow_probability
+ruamel.yaml 
+gym[atari, accept-rom-license]
+dm_control
+opencv-python
